@@ -31,4 +31,10 @@ Monthly average national air system delay by reporting airline for the given yea
 Monthly average security delay by reporting airline for the given year.
 Monthly average late aircraft delay by reporting airline for the given year.
 
-
+###Requirements to create the expected result
+Two dropdown menus: For choosing report type and year
+Each dropdown will be designed as follows:
+An outer division with two inner divisions (as shown in the expected layout)
+One of the inner divisions will have information about the dropdown and the other one is dropdown.
+Layout for adding graphs.
+Callback function to compute data, create graph and return to the layout.
