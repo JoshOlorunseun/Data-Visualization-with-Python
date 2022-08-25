@@ -36,8 +36,9 @@ Two dropdown menus: For choosing report type and year
 
 Each dropdown will be designed as follows:
 
-An outer division with two inner divisions (as shown in the expected layout)
-One of the inner divisions will have information about the dropdown and the other one is dropdown.
+  An outer division with two inner divisions (as shown in the expected layout)
+
+  One of the inner divisions will have information about the dropdown and the other one is dropdown.
 
 Layout for adding graphs.
 
